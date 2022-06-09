@@ -1,0 +1,19 @@
+:root{
+    --green-background: #3CDBC0;
+    --grey-text: #4a4a4a;
+    --white-text: #FFFFFF;
+    font-family: 'Rubik', sans-serif;
+}
+
+.main{
+    height: 100vh;
+    background-color: var(--green-background);
+}
+
+.title{
+    color: var(--white-text);
+}
+
+.menu-items{
+    color: var(--grey-text);
+}
