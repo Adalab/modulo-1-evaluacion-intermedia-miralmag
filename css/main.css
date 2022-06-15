@@ -29,6 +29,7 @@
 
 .menu-items{
     color: var(--grey-text);
+    text-transform: uppercase;
 }
 
 .links{
