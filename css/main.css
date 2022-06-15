@@ -10,6 +10,7 @@
     flex-direction: column;
     align-items: center;
     position: fixed;
+    top: 0;
     background-color: var(--white-text);
     width: 100vw;
 }
@@ -67,6 +68,7 @@
     .menu{
         padding-right: 1.875rem;
     }
+    
     .title{
         font-size: 2.5rem;
     }
